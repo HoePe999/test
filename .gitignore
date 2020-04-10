@@ -1,0 +1,7 @@
+# Projektspezifisches
+.buildpath
+.project
+.settings/
+
+# Verzeichnisse
+dist/
