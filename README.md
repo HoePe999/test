@@ -9,3 +9,9 @@
 
 cd <PROJECT_ROOT>
 git submodule add git@github.com:HoePe999/28august21uhr30gleis9.git src
+
+mkdir -p /tmp
+
+
+git clone
+git submodule init
