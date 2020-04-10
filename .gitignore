@@ -4,5 +4,6 @@
 .settings/
 
 # Verzeichnisse
+src/
 dist/
 temp/
